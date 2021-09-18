@@ -1,0 +1,13 @@
+body {
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+canvas{
+    border: 5px solid snow;
+    border-radius: 20px;
+    margin-top: 60px;
+}
